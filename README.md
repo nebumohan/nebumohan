@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nebu Mohan
 
-🔐 Aspiring Application Security Engineer
+🔐 Aspiring Security Engineer
 Building security tools that detect and explain real-world vulnerabilities
 
 ---
