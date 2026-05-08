@@ -17,8 +17,8 @@ Security engineer focused on **Application Security**, **SAST tooling**, and **A
 
 I build end-to-end security pipelines — from static analysis and detection engineering to LLM-powered triage — with a focus on making findings **actionable**, not just logged.
 
-- 🔍 **Core Focus:** AppSec · SAST · Detection Engineering · Threat Intelligence
-- 🤖 **Current Build:** AI-powered SIEM lab with Wazuh + Elastic Stack + Gemini API triage
+- 🔍 **Core Focus:** SOC | AppSec · SAST · Detection Engineering · Threat Intelligence
+- 🤖 **Current Build:** Azure-Global-Attack-Honeypot
 - 🌍 **Location:** Kochi, India
 - 🏆 **Certifications:** CEH v12 (EC-Council) · CPENT (Red Team Hacker Academy)
 
