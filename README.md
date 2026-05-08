@@ -65,8 +65,6 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 ![Semgrep](https://img.shields.io/badge/Semgrep-1E2937?style=flat-square&logo=semgrep&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elasticstack&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
@@ -76,7 +74,6 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 **Infrastructure & Platforms**
 
