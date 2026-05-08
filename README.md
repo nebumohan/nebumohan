@@ -98,24 +98,7 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nebu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nebumohan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nebumohan&layout=compact&theme=github_dark&hide_border=true)
-
 </div>
-
----
-
-## 🎯 Current Focus (May 2026)
-
-- [ ] Complete Wazuh HIDS integration with existing Elastic Stack
-- [ ] Write and publish custom Semgrep rules to the public registry
-- [ ] Add GitHub Actions CI/CD pipeline to AI Scanner project
-- [ ] Build Python SOAR triage module with Gemini API
 
 ---
 
@@ -123,7 +106,7 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 I'm actively targeting **AppSec Engineer** and **Security Analyst** roles.
 
-If you're working on detection engineering, SAST tooling, or AI-assisted security automation — let's connect.
+If you're working on Log analyzes, detection engineering, SAST tooling, or AI-assisted security automation — let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nebu-mohan-b13a05196/)
 
