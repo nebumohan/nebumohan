@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nebu Mohan
-### SOC Analyst | Security Engineer | Detection Engineering | AI-Assisted Security Automation
+### SOC Analyst | Security Engineer | Cloud Security | Detection Engineering | AI-Assisted Security Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebu-mohan-b13a05196/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wayne07)
@@ -17,7 +17,7 @@ Security engineer focused on **Application Security**, **SAST tooling**, and **A
 
 I build end-to-end security pipelines — from static analysis and detection engineering to LLM-powered triage — with a focus on making findings **actionable**, not just logged.
 
-- 🔍 **Core Focus:** SOC | AppSec · SAST · Detection Engineering · Threat Intelligence
+- 🔍 **Core Focus:** SIEM, detection engineering, threat triage, security automation
 - 🤖 **Current Build:** Azure-Global-Attack-Honeypot
 - 🌍 **Location:** Kochi, India
 - 🏆 **Certifications:** CEH v12 (EC-Council) · CPENT (Red Team Hacker Academy)
@@ -101,7 +101,7 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 ## 🤝 Connect
 
-I'm actively targeting **AppSec Engineer** and **Security Analyst** roles.
+Building towards SOC Analyst and Cloud Security roles
 
 If you're working on Log analyzes, detection engineering, SAST tooling, or AI-assisted security automation — let's connect.
 
