@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nebu Mohan
-### SOC Analyst | Security Engineer | Cloud Security | Detection Engineering | AI-Assisted Security Automation
+### SOC Analyst | Detection Engineering | Security Automation | Cloud Security
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nebu-mohan-b13a05196/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wayne07)
@@ -13,12 +13,12 @@
 
 ## 👨‍💻 About Me
 
-Security engineer focused on **Application Security**, **SAST tooling**, and **AI-assisted vulnerability analysis**.
+Security engineer building tools at the intersection of **detection engineering**, **SIEM/SOC automation**, and **AI-assisted threat triage**.
 
-I build end-to-end security pipelines — from static analysis and detection engineering to LLM-powered triage — with a focus on making findings **actionable**, not just logged.
+I don't just study security — I build pipelines that mirror how real SOC teams work: parse logs, detect threats, enrich with intelligence, triage with AI.
 
 - 🔍 **Core Focus:** SIEM, detection engineering, threat triage, security automation
-- 🤖 **Current Build:** Azure-Global-Attack-Honeypot
+- 🤖 **Current Build:** Azure Global Attack Honeypot
 - 🌍 **Location:** Kochi, India
 - 🏆 **Certifications:** CEH v12 (EC-Council) · CPENT (Red Team Hacker Academy)
 
@@ -27,35 +27,35 @@ I build end-to-end security pipelines — from static analysis and detection eng
 ## 🚀 Security Projects
 
 ### 🔬 [AI-Powered Vulnerability Scanner (SAST + LLM)](https://github.com/nebumohan/ai-vulnerability-scanner)
-> Custom SAST pipeline combining static analysis with AI-driven triage
+> Static analysis pipeline with AI-driven triage and structured reporting
 
-- Detects vulnerabilities using **Bandit** and **Semgrep** (OWASP Top 10 patterns)
+- Detects vulnerabilities using **Bandit** and **Semgrep** across Python codebases (OWASP Top 10 patterns)
 - Passes findings to **Google Gemini API** for contextual explanation, CVSS scoring, and fix suggestions
-- Stores all results in **SQLite** with structured **HTML reports** via Jinja2
+- Stores all results in **SQLite** with clean **HTML reports** generated via Jinja2
+- Tested against intentionally vulnerable apps — command injection, eval misuse, subprocess issues
 - **Stack:** Python · Bandit · Semgrep · Gemini API · SQLite · Jinja2
 
 ---
 
-### 🌐 Azure Global Honeypot
+### 🌐 [Azure Global Attack Honeypot](https://github.com/nebumohan/azure-global-attack-honeypot)
 > Cloud-deployed deception infrastructure capturing real-world attacker behaviour
 
 - Deployed **T-Pot** multi-honeypot on Azure across multiple regions
 - Captured attacker TTPs, credential stuffing attempts, and port scanning data
 - Visualised global attack origin using **Kibana GeoIP dashboards**
-- Attacker IPs exported as threat intelligence feed for downstream detection use
+- Attacker IPs exported as threat intelligence feed for downstream detection
 - **Stack:** Azure · T-Pot · Elastic Stack · GeoIP · Python
 
 ---
 
-### 🛡️ Advanced SIEM Detection Lab *(In Progress)*
-> Full detection engineering environment with AI-assisted alert triage
+### 🧠 [SOC Log Parser & Geo-Threat Intelligence Tool](https://github.com/nebumohan/log-parser)
+> SOC automation tool for brute-force detection and threat actor geolocation
 
-- **Elastic Stack** (Elasticsearch + Kibana) running on Ubuntu Server 22.04
-- **Wazuh** HIDS agent on Windows host — FIM, rootkit detection, Windows Event analysis
-- **Atomic Red Team** for adversary simulation mapped to MITRE ATT&CK
-- **Python + Gemini API** SOAR module for automated alert triage and severity classification
-- Honeypot attacker IPs fed into Wazuh threat intelligence module — connecting all three projects
-- **Stack:** Elastic Stack · Wazuh · Sysmon · Winlogbeat · Python · Gemini API · MITRE ATT&CK
+- Parses raw system logs to detect repeated failed login attempts
+- Flags suspicious IPs and enriches them with geolocation data via IP-API
+- Generates structured `alerts.txt` reports simulating real SOC triage output
+- Built to understand how analysts investigate authentication attacks end-to-end
+- **Stack:** Python · IP-API · Requests
 
 ---
 
@@ -65,8 +65,9 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 ![Semgrep](https://img.shields.io/badge/Semgrep-1E2937?style=flat-square&logo=semgrep&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-3776AB?style=flat-square&logo=python&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
@@ -95,20 +96,16 @@ I build end-to-end security pipelines — from static analysis and detection eng
 
 ---
 
-</div>
-
----
-
 ## 🤝 Connect
 
-Building towards SOC Analyst and Cloud Security roles
+Building towards SOC Analyst and Cloud Security roles.
 
-If you're working on Log analyzes, detection engineering, SAST tooling, or AI-assisted security automation — let's connect.
+If you're working on detection engineering, SIEM/SOAR pipelines, threat intelligence, or AI-assisted security automation — let's connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nebu-mohan-b13a05196/)
 
 ---
 
 <div align="center">
-<sub>Building security tools that make vulnerabilities understandable, not just detected.</sub>
+<sub>Building security tools that make threats understandable, not just detected.</sub>
 </div>
