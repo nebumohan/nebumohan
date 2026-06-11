@@ -26,11 +26,12 @@ I don't just study security. I build pipelines that mirror how real SOC teams wo
 
 ## 🚀 Security Projects
 
-### 🔬 [AI-Powered Vulnerability Scanner (SAST + LLM)](https://github.com/nebumohan/ai-vulnerability-scanner)
+### 🔬 [AI-Powered Vulnerability Scanner (SAST + LLM + MCP)](https://github.com/nebumohan/ai-vulnerability-scanner)
 > Static analysis pipeline with AI-driven triage and structured reporting
 
 - Detects vulnerabilities using **Bandit** and **Semgrep** across Python codebases (OWASP Top 10 patterns)
 - Passes findings to **Google Gemini API** for contextual explanation, CVSS scoring, and fix suggestions
+- Integrated with Claude Desktop via Model Context Protocol (MCP) for real-time, conversational security scanning.
 - Stores all results in **SQLite** with clean **HTML reports** generated via Jinja2
 - Tested against intentionally vulnerable apps — command injection, eval misuse, subprocess issues
 - **Stack:** Python · Bandit · Semgrep · Gemini API · SQLite · Jinja2
